@@ -1,1 +1,1 @@
-Notice: for c/c++ pratice
+Notice: for c/c++ some demo 
